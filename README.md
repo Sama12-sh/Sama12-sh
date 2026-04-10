@@ -1,8 +1,12 @@
 # Hi there, I'm Sama 👋
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Laptop Workspace" width="38%"/><br>
+<div align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Laptop Workspace" width="38%"/><br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Studying+Informatik+at+TU+Berlin;Learning+Java+%26+Algorithms;Future+Software+Engineer" alt="Typing"/>
+
+</div>
 
 </div>
 
