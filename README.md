@@ -1,8 +1,9 @@
 # Hi there, I'm Sama 👋
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Girl Coding" width="58%"/> <br>
 
-<div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Laptop Workspace" width="38%"/><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Informatik+Student+at+TU+Berlin;Future+Software+Engineer;Passionate+about+Programming+and+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Studying+Informatik+at+TU+Berlin;Learning+Java+%26+Algorithms;Future+Software+Engineer" alt="Typing"/>
 
 </div>
 
