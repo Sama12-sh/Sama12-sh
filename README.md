@@ -1,5 +1,4 @@
 # Hi there, I'm Sama 👋
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Girl Coding" width="58%"/> <br>
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Laptop Workspace" width="38%"/><br>
 
